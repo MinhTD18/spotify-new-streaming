@@ -1,0 +1,4 @@
+selenium
+multithreading==0.2.0
+loguru==0.6.0
+requests
